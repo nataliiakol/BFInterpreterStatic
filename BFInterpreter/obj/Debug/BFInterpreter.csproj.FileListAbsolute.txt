@@ -1,0 +1,14 @@
+C:\Users\Nataliia\Documents\Visual Studio 2017\Projects\BFInterpreter\BFInterpreter\bin\Debug\BFInterpreter.exe.config
+C:\Users\Nataliia\Documents\Visual Studio 2017\Projects\BFInterpreter\BFInterpreter\bin\Debug\BFInterpreter.exe
+C:\Users\Nataliia\Documents\Visual Studio 2017\Projects\BFInterpreter\BFInterpreter\bin\Debug\BFInterpreter.pdb
+C:\Users\Nataliia\Documents\Visual Studio 2017\Projects\BFInterpreter\BFInterpreter\obj\Debug\BFInterpreter.csprojAssemblyReference.cache
+C:\Users\Nataliia\Documents\Visual Studio 2017\Projects\BFInterpreter\BFInterpreter\obj\Debug\BFInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\Nataliia\Documents\Visual Studio 2017\Projects\BFInterpreter\BFInterpreter\obj\Debug\BFInterpreter.exe
+C:\Users\Nataliia\Documents\Visual Studio 2017\Projects\BFInterpreter\BFInterpreter\obj\Debug\BFInterpreter.pdb
+C:\Users\Nataliia\Documents\Visual Studio 2017\Projects\BFInterpreter static\BFInterpreter\bin\Debug\BFInterpreter.exe.config
+C:\Users\Nataliia\Documents\Visual Studio 2017\Projects\BFInterpreter static\BFInterpreter\bin\Debug\BFInterpreter.exe
+C:\Users\Nataliia\Documents\Visual Studio 2017\Projects\BFInterpreter static\BFInterpreter\bin\Debug\BFInterpreter.pdb
+C:\Users\Nataliia\Documents\Visual Studio 2017\Projects\BFInterpreter static\BFInterpreter\obj\Debug\BFInterpreter.csprojAssemblyReference.cache
+C:\Users\Nataliia\Documents\Visual Studio 2017\Projects\BFInterpreter static\BFInterpreter\obj\Debug\BFInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\Nataliia\Documents\Visual Studio 2017\Projects\BFInterpreter static\BFInterpreter\obj\Debug\BFInterpreter.exe
+C:\Users\Nataliia\Documents\Visual Studio 2017\Projects\BFInterpreter static\BFInterpreter\obj\Debug\BFInterpreter.pdb
